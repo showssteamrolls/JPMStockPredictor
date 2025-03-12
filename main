@@ -1,0 +1,6 @@
+git init  # Initialize Git in your local folder
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git
+
+git AIStockPredictionPlayground.ipynb
+git commit -m "Initial commit - Added Jupyter Notebook"
+git push -u origin main

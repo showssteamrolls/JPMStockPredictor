@@ -1,2 +1,0 @@
-git init  # Initialize Git in your local folder
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git
